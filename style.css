@@ -6,6 +6,7 @@
 }
 
  body {
+    
     height: 900px;
     width:100vw;
     background: #feece0;
@@ -39,12 +40,15 @@ img {
 .container2 {
     color: #ffff;
     background: #9B6647;
-   padding-top: 20px;
+    padding-top: 20px;
     display: flex;
-    
+    align-items: center;
     justify-content: center;
     padding-bottom: 60px;
+    
+    
 }
+
 
 #p2 {
     padding-left: 80px;
